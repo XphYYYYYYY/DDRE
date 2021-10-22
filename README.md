@@ -14,7 +14,6 @@ This repository is organised as follows:
 The implementation is tested under Python 3.7, with the following packages installed:
 - `networkx==2.3`
 - `numpy==1.16.5`
-- `scikit-learn==0.21.3`
 - `texttable==1.6.2`
 - `tqdm==4.36.1`
 
