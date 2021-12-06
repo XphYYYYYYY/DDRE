@@ -8,8 +8,8 @@
 <img src="https://latex.codecogs.com/svg.image?c_{min}" title="c_{min}" /> = 200  
 <img src="https://latex.codecogs.com/svg.image?c_{max}" title="c_{max}" /> = 1000  
 <img src="https://latex.codecogs.com/svg.image?\tau_1" title="\tau_1" /> = 2  
-<img src="https://latex.codecogs.com/svg.image?\tau_2" title="\tau_2" /> = 1
-<img src="https://latex.codecogs.com/svg.image?\alpha_1" title="\alpha_1" /> = 0.9
+<img src="https://latex.codecogs.com/svg.image?\tau_2" title="\tau_2" /> = 1  
+<img src="https://latex.codecogs.com/svg.image?\alpha_1" title="\alpha_1" /> = 0.9  
 <img src="https://latex.codecogs.com/svg.image?\alpha_2" title="\alpha_2" /> = 0.1
 
 ## Statistics
