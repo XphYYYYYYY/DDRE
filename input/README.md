@@ -1,3 +1,5 @@
+# Description of Net-4 and the corresponding results
+
 ## Parameters
 <img src="https://latex.codecogs.com/svg.image?N" title="N" /> = 10000  
 <img src="https://latex.codecogs.com/svg.image?d_{avg}" title="d_{avg}" /> = 5  
