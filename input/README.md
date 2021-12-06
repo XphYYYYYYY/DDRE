@@ -25,7 +25,11 @@ We will continue to complete the experiments and add the full results to final v
 
 **SLF**   AUC=.558 <img src="https://latex.codecogs.com/svg.image?\pm" title="\pm" /> .004  F1=.070 <img src="https://latex.codecogs.com/svg.image?\pm" title="\pm" /> .002
 
+**SNEA**   AUC=1.0 <img src="https://latex.codecogs.com/svg.image?\pm" title="\pm" /> .000  F1=.995 <img src="https://latex.codecogs.com/svg.image?\pm" title="\pm" /> .001
+
 ### Net-4(<img src="https://latex.codecogs.com/svg.image?\alpha" title="\alpha" />=5)
 **DDRE**  AUC=.989 <img src="https://latex.codecogs.com/svg.image?\pm" title="\pm" /> .001  F1=.875 <img src="https://latex.codecogs.com/svg.image?\pm" title="\pm" /> .006
 
 **SLF**   AUC=.544 <img src="https://latex.codecogs.com/svg.image?\pm" title="\pm" /> .003  F1=.069 <img src="https://latex.codecogs.com/svg.image?\pm" title="\pm" /> .003
+
+**SNEA**   AUC=1.0 <img src="https://latex.codecogs.com/svg.image?\pm" title="\pm" /> .000  F1=.991 <img src="https://latex.codecogs.com/svg.image?\pm" title="\pm" /> .001
