@@ -13,7 +13,7 @@ According to the law of large numbers, we have <img src="https://latex.codecogs.
 
 That is, we have <img src="https://latex.codecogs.com/svg.image?\frac{\lim_{W->\infty}\sharp_h(vi,vj)}{W}=\frac{(\hat{P}^h_{ij}+P^h_{ij})}{2}" title="\frac{\lim_{W->\infty}\sharp_h(vi,vj)}{W}=\frac{(\hat{P}^h_{ij}+P^h_{ij})}{2}" />.
 
-## Instructions for simulation results
+## Instructions for simulation experiments
 Furthermore, we provide the code of simulation experiments to empirically validate Eq.(6).
 
 Of course, W cannot be infinite when using explicit sampling.
