@@ -2,6 +2,20 @@
 Implementation of dual-branch density ratio estimation in Python.
 The paper is submiited to WWW'22 and under review.
 
+## UPDATE (about the rebuttal)
+Due to the space limit of the response, we have to put some results and discussions on github. Again, thank all of reviewers for your time!
+
+### Reviewer #1
+We have uploaded Net-4 dataset to `input/`, and you can find the descriptions and results in `input/README.md`.
+
+### Reviewer #2
+You can find the proof in `roof&Simulation of Eq(6)/README.md`.
+
+Moreover, you can check the correctness of the equation through simulation experiments. Both the code and instructions are included in `roof&Simulation of Eq(6)/`.
+
+### Reviewer #4
+We have uploaded the code of GSGNS, ROSE, and NetMF to `Baselines/`.
+
 ## Overview
 This repository is organised as follows:
 - `input/` contains the used datasets.
