@@ -25,9 +25,13 @@ We will provide more experimental results in the final version.
 ### Net-4(<img src="https://latex.codecogs.com/svg.image?\alpha" title="\alpha" />=10)
 **DDRE**  AUC=.992 <img src="https://latex.codecogs.com/svg.image?\pm" title="\pm" /> .000  F1=.896 <img src="https://latex.codecogs.com/svg.image?\pm" title="\pm" /> .006
 
+**GSGNS**  AUC=.991 <img src="https://latex.codecogs.com/svg.image?\pm" title="\pm" /> .000  F1=.868 <img src="https://latex.codecogs.com/svg.image?\pm" title="\pm" /> .006
+
 **SLF**   AUC=.558 <img src="https://latex.codecogs.com/svg.image?\pm" title="\pm" /> .004  F1=.070 <img src="https://latex.codecogs.com/svg.image?\pm" title="\pm" /> .002
 
 ### Net-4(<img src="https://latex.codecogs.com/svg.image?\alpha" title="\alpha" />=5)
 **DDRE**  AUC=.989 <img src="https://latex.codecogs.com/svg.image?\pm" title="\pm" /> .001  F1=.875 <img src="https://latex.codecogs.com/svg.image?\pm" title="\pm" /> .006
+
+**GSGNS**  AUC=.990 <img src="https://latex.codecogs.com/svg.image?\pm" title="\pm" /> .000  F1=.852 <img src="https://latex.codecogs.com/svg.image?\pm" title="\pm" /> .004
 
 **SLF**   AUC=.544 <img src="https://latex.codecogs.com/svg.image?\pm" title="\pm" /> .003  F1=.069 <img src="https://latex.codecogs.com/svg.image?\pm" title="\pm" /> .003
