@@ -19,7 +19,7 @@
 \# Classes = 18
 
 ## Results
-Due to the time and computing source limit, we only report the results of a part of methods.
+Due to the limited time and computing resources, we only report the results of a part of methods.
 We will continue to complete the experiments and add the full results to the final version of the manuscript.
 
 ### Net-4(<img src="https://latex.codecogs.com/svg.image?\alpha" title="\alpha" />=10)
